@@ -1,5 +1,7 @@
-site_name: My Docs
+site_name: "莫伤心的博客"
 
 nav:
     - Home: index.md
     - netwoek: network.md
+
+theme: readthedocs
